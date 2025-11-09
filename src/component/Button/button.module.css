@@ -1,0 +1,20 @@
+.but {
+width: 100% !important;
+background: #FFCE22!important;
+border-radius: 8px !important;
+padding: 12px 0 !important;
+font-weight: 400 !important;
+text-transform: none !important;
+color: black !important;
+font-family: Montserrat !important;
+font-size: 14px !important;
+
+}
+.but:active,
+.but:focus,
+.but:focus-visible {
+  background: #FFD84D !important;
+}
+.but:hover {
+  background: #FFCE22 !important;
+}

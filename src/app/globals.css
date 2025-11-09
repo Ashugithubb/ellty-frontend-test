@@ -1,9 +1,13 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: grey;
   --foreground: #171717;
 }
+:root {
+  font-family: var(--font-montserrat), sans-serif !important;
+}
+
 
 @theme inline {
   --color-background: var(--background);
